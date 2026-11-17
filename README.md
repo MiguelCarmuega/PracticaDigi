@@ -1,0 +1,2 @@
+# PracticaDigi
+Practica de digitalizacion
